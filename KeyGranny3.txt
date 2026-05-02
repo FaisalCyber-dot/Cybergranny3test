@@ -1,0 +1,5 @@
+{
+  "key": "KeyG3Cyber20",
+  "status": "active",
+  "version": "1.0"
+}
